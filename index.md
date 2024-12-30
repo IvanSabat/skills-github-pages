@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Ivan Sabat's blog: Welcome to my blog
 ---
 
